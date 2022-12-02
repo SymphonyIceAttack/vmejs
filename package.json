@@ -39,6 +39,8 @@
     "@changesets/cli": "^2.25.2",
     "@commitlint/cli": "^17.2.0",
     "@commitlint/config-conventional": "^17.2.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/react-hooks": "^8.0.1",
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
@@ -48,6 +50,7 @@
     "eslint": "^8.27.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "happy-dom": "^7.7.0",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
@@ -55,6 +58,7 @@
     "react-dom": "^18.2.0",
     "tsup": "^6.4.0",
     "typescript": "^4.8.4",
+    "vite": "^3.2.3",
     "vitest": "^0.25.1"
   }
 }
